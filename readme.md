@@ -17,5 +17,5 @@ Um cronômetro funcional desenvolvido com HTML, CSS e JavaScript. Este projeto f
 
 ## 📸 Demonstração
 
-
+<img src="https://github.com/JonasFilhoDev/Projeto---Cronometro/blob/master/img/Captura%20de%20tela%202026-01-09%20152620.png?raw=true">
 
