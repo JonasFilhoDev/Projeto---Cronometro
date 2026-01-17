@@ -1,6 +1,6 @@
 # ⏱️ Cronômetro Simples
 
-Um cronômetro funcional desenvolvido com HTML, CSS e JavaScript. Este projeto foi criado para praticar manipulação do DOM, intervalos de tempo (`setInterval`) e lógica de programação, como parte do aprendizado constante no <a href="http://rodolfomori.com.br/devclub">DevClub</a>
+Um cronômetro funcional desenvolvido com HTML, CSS e JavaScript. Este projeto foi criado para praticar manipulação do DOM, intervalos de tempo (`setInterval`) e lógica de programação, como parte do aprendizado constante no <a href="https://devclub.com.br/">DevClub</a>
 
 ## 🚀 Funcionalidades
 
